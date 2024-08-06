@@ -4,7 +4,7 @@ An analysis of sales data of a global superstore
 
 
 
-For this project, I utilized Power BI in analyzing and visualizing 4 years record of a retail dataset for a global superstore brand using Power BI.
+For this project, I utilized Power BI in analysing and visualising 4 four-year records of a retail dataset for a global superstore brand using Power BI.
 The goal of this project is to analyze and answer the following business questions to aid in making intelligent business decisions;
 - Who are the top customers?
 - Which salesperson and region had the most sales?
@@ -52,13 +52,13 @@ The goal of this project is to analyze and answer the following business questio
 - Data Reporting
 ## INSIGHTS:
 ### Findings
-1. Category and sub category: Technology accounts for the highest total profit ($663.78k) of the three categories, Office Supplies ($518.47k) & Furniture ($286.78k). One might ask, Why does furniture contribute to such low profit yet has high sales? Furniture category has 4 subcategories ('Furnishings' ($46.97k), 'bookcases ($161.92k)', 'chairs' ($141.97k), and 'tables' (-$64.08k)) Tables sub-category is infact making a loss. This is where Superstore is losing money. Sale demand decreases from 
+1. Category and subcategory: Technology accounts for the highest total profit ($663.78k) of the three categories, Office Supplies ($518.47k) & Furniture ($286.78k). One might ask, Why does furniture contribute to such low profit yet have high sales? The furniture category has 4 subcategories ('Furnishings' ($46.97k), 'bookcases ($161.92k)', 'chairs' ($141.97k), and 'tables' (-$64.08k)) Tables sub-category is in fact making a loss. This is where Superstore is losing money. Sale demand decreases from 
 2. SuperStore has three main segments. Consumer, Corporate and Home Office segments. The consumer segment accounts for 51.5% in sales, Corporate 30.14% while Home Office accounts for 18.86%. Sales demand decreases from technology, furniture and then office supply in that order.
-3. In the Geographical Markets APAC (Asian Pacific Market) is the largest market (3.59m), followed by the EU Market (2.94m), US market (2.3m), LATAM (2.16m), Canada (66.93k). Canada has the lowest sales and the accounts for the lowst profit ($17.82k).
+3. In the Geographical Markets APAC (Asian Pacific Market) is the largest market (3.59m), followed by the EU Market (2.94m), US market (2.3m), LATAM (2.16m), Canada (66.93k). Canada has the lowest sales and accounts for the lowest profit ($17.82k).
 4. The time series chart of the store indicates steady growth in sales and profit from 2011 to 2014. 
 5. It takes on average 4 days for a delivery to be completed at an average shipping cost of $26.38. 
 ## LIMITATIONS
 Without access to demographic information such as population numbers for different regions, it is difficult to accurately determine the popularity of Global store in each market. This information is crucial for identifying markets where SuperStore is most popular and where additional marketing and advertising efforts may be required to increase sales. However, it is important to note that having a high population does not necessarily guarantee high sales or market share, as this depends on factors such as competition from key competitors.
 ## RECOMMENDATIONS
-Based on the analysis, the sub-category of tables is currently generating losses for SuperStore. However, the store can optimize profitability by focusing on the 20 unique tables that are profitable and gradually phasing out the loss-making ones from its online inventory or embark on a vigorous campaign.
+Based on the analysis, the table sub-category generates losses for SuperStore. However, the store can optimize profitability by focusing on the 20 unique tables that are profitable and gradually phasing out the loss-making ones from its online inventory or embarking on a vigorous campaign.
 
