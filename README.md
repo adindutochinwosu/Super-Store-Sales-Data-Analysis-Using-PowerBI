@@ -43,6 +43,7 @@ The goal of this project is to analyze and answer the following business questio
 ## Tools Used:
 - Microsoft Excel
 - Power BI (Dashboard and Visualization)
+- Power Query
 ## Methodology:
 - Data Collection
 - Data Preprocessing
